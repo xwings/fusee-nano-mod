@@ -1,4 +1,7 @@
 # fusee-nano-mod by xwings
+
+Mod from: https://github.com/DavidBuchanan314
+
 Originated from minimalist re-implementation of the Fusée Gelée exploit (http://memecpy.com), designed to run on embedded Linux devices. (Zero dependencies)
 
 ### Usage example:
@@ -13,4 +16,3 @@ Note: This currently uses a relatively large amount of memory (~200k) to store
 the entire payload. I plan to improve this by generating the payload on-the-fly
 as it is sent.
 
-Credit: DavidBuchanan314
