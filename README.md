@@ -1,4 +1,4 @@
-# fusee-nano-mode by xwings
+# fusee-nano-mod by xwings
 Originated from minimalist re-implementation of the Fusée Gelée exploit (http://memecpy.com), designed to run on embedded Linux devices. (Zero dependencies)
 
 ### Usage example:
